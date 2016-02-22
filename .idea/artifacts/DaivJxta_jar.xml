@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="DaivJxta:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/DaivJxta_jar</output-path>
+    <root id="archive" name="DaivJxta.jar">
+      <element id="module-output" name="DaivJxta" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/miglayout15-swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JXTA资料/jxse-lib-2.5/javax.servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JXTA资料/jxse-lib-2.5/org.mortbay.jetty.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/forms-1.3.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JXTA资料/jxse-lib-2.5/bcprov-jdk14.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JXTA资料/jxse-lib-2.5/jxta.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
